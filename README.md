@@ -1,5 +1,9 @@
 # Python-mini-projects
 
-This repository consists of mini python projects
+This repository consists of mini python projects :
 
-<h1>test</h1>
+*Choose your adventure game
+*Number guessing game
+*Password manager
+*Quiz game
+*Rock paper Scissor
